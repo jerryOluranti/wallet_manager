@@ -1,0 +1,4 @@
+- Prompt user to create wallet account with initial balance
+- Give operation options on the wallet  (e.g. View balance, transfer, withdraw, fund, delete, exit)
+
+And then you will give the active account of the project and the activations annomaly of the incident

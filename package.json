@@ -1,0 +1,16 @@
+{
+  "name": "wallet_manager",
+  "version": "1.0.0",
+  "description": "A project to manage multiple user wallet",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "DKugblenu, JFaluyi, SFaluyi",
+  "license": "ISC",
+  "dependencies": {
+    "input": "^1.0.1"
+  }
+}
